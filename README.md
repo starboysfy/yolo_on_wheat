@@ -1,6 +1,6 @@
 Here are the link of thr pretrained model and final model.
 
-pretained models I use(yolov5m and 5x)
+pretained models I use,downloaded from offical website
 
 https://drive.google.com/file/d/100jKEMMyKzv3NCS6jBYaPihw4rw841Mi/view?usp=sharing
 
