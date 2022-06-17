@@ -1,0 +1,2 @@
+data/images/71.jpg
+data/images/96.jpg
